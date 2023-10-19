@@ -109,3 +109,13 @@ usernameとpasswordはともに``kali``
 CTFを解くための環境を作りたくてこのようなことを行いました。
 
 初心者ですがCTFの問題もっと解けるようにがんばります。
+
+## 参考
+
+https://whitemarkn.com/learning-ethical-hacker/virtualbox-kalilinux2023-1/
+
+https://www.kali.org/get-kali/
+
+https://www.pictbio.com/tips/904.html
+
+https://www.nemotos.net/?p=2107
